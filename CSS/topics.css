@@ -1,0 +1,26 @@
+.Btn:hover{ background-color: #dcdcdc; color: black; }
+.Btn { background-color: black; color: white; border: none; height: 60px; width:60px; }	
+.navbar-costum { background-color: #3cb371; }
+.bton {  background-color: black;  color: white; border: none; height: 60px; width:100px; }
+
+.coloumn { border-bottom: 1px solid black; background-color: #dcdcdc;}
+
+.heading { text-align: center; color: black; font-size: 35px;  font-family: 'Bebas Neue', sans-serif; 
+	  letter-spacing: 3px; text-decoration: underline 2px ;}
+.opt { font-size: 17px; font-family: arial; }
+
+.about { padding-left: 5px; font-size: 17px; }
+.fa {  padding: 20px;  font-size: 30px;  width: 50px;  text-align: center;  text-decoration: none;}
+	.fa:hover {  opacity: 0.7; transform: scale(1.1);}
+	.fa-facebook {  background: #3B5998;  color: white;}
+	.fa-instagram {  background: #55ACEE;  color: white;}
+	.fa-youtube {  background: red;color: white;}
+
+
+.vid { border: 1px solid black; background-color: #dcdcdc;  margin-top: 10px; margin-left: auto;
+ margin-right: auto; width: 600px;	height: 400px; padding-left: 17px;  }
+.center {margin: auto;   display: block;}
+.vid:hover { background-color: grey; }	
+
+.msg { font-size: 17px; color: grey; padding-left: 5px; padding-top: 10px; }	
+.whole { background: url(https://cdn.wallpapersafari.com/18/17/jdlshm.jpg); }

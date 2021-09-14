@@ -1,0 +1,16 @@
+.bton { border-radius: 0%; background-color:  #3cb371;  border: none; height: 60px; width: 60px; font-size: 17px;}
+.bton:hover { background-color: aliceblue; }
+.navbar-costam { background-color: #3cb371; }
+
+.mentions { text-decoration: none;  }
+.points {  }
+.words { font-style: italic; }
+.types { background-color: aliceblue; padding-top: 5px; }
+.bold { text-decoration:  }
+.info { padding-left: 10px; }
+.fa {  padding: 20px;  font-size: 30px;  width: 50px;  text-align: center;  text-decoration: none; }
+	.fa:hover {  opacity: 0.7; transform: scale(1.1);}
+	.fa-facebook {  background: #3B5998;  color: white;}
+	.fa-instagram {  background: #55ACEE;  color: white;}
+	.fa-youtube {  background: red;color: white;}
+.inform { color: grey; padding-left: 10px;  }

@@ -1,0 +1,22 @@
+.Btn { border: none; height: 60px; font-size: 17px; border-radius: 0%  width: 60px; background-color: #3cb371; }	
+.Btn:hover{ background-color: aliceblue; color: white; color: black; }
+
+.navbar-costum { background-color: #3cb371; }
+
+.fa {  padding: 20px;  font-size: 30px;  width: 50px;  text-align: center;  text-decoration: none;}
+.fa:hover {  opacity: 0.7; transform: scale(1.1);}
+.fa-facebook {  background: #3B5998;  color: white;}
+.fa-instagram {  background: #55ACEE;  color: white;}
+.fa-youtube {  background: red;color
+	: white;}
+.quiz { background-color: #00cc00;}
+.whole { background-color: aliceblue;  }
+.level { margin: 5px; font-size: 30px; font-family: arial;  }
+.whole a{ text-decoration: none; font-size: 20px; color: green; font-family: arial; padding-left: 5px;}
+.q { padding: 4px; font-size: 20px;  font-family: arial;}
+.q:hover { color: black; }
+.info { font-size: 25px; font-family: arial; }
+.upd { color: grey; font-size: 20px; font-family: Arial; }
+.about { font-size: 17px; padding-left: 5px; }
+
+.not { font-size: 17	px; padding-left: 4px; font-family: arial; }

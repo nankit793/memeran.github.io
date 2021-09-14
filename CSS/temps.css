@@ -1,0 +1,41 @@
+.Btn:hover { background-color: #333;  }
+.Btn { background-color: #3cb371; color: white; border: none; height: 3.75rem; width:3.9rem;font-size: 0.9rem; }	
+.navbar-costum { background-color: #3cb371; }
+div.scrollmenu button { background-color: lightyellow;
+ border: 1px solid black; margin-left: 2rem; padding: 0.7rem;
+  border-radius: 5px 20px 5px; font-family: 'PT Sans', sans-serif; }
+div.scrollmenu button:hover { background-color: aliceblue;  }
+
+
+div.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+  background-color: #333;
+  }
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}

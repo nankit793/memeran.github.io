@@ -1,0 +1,87 @@
+.mySlides {
+  margin: 0px;
+  width: 100%;
+  height: 60px;
+}
+
+
+.bg-img {  background-image: url("meme1.jpg") ;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;  /* Needed to position the navbar */
+  }
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  margin: 10px; 
+  text-decoration: none;
+  font-size: 19px;
+}
+.topnav a:hover {
+  color: lightblue;
+  transform: scale(1.1);
+  transition: 0.3s; 
+  }
+
+
+.howto{ font-size: 2rem; color: aliceblue	; padding-top: 0.3rem; font-family: 'Bebas Neue', sans-serif ;padding-left: 0.5rem; letter-spacing: 0.1rem } 
+
+.tutorial {  padding-top: 5px; padding-left: 7px; font-size:1rem;  font-family: 'Mukta', sans-serif; color: ghostwhite;}
+
+.whole {	background: url(https://cdn.wallpapersafari.com/18/17/jdlshm.jpg); }       
+
+.img { border-radius: 50%; width: 20rem;height: 20rem; padding: 0.156rem;}
+
+.navbar-brand { font-family: 'Bebas Neue', sans-serif; letter-spacing: 0.25rem; font-size: 1.2rem; position: relative; }
+
+.Topics a{ text-decoration: none;  }
+
+img:hover { transform: scale(1.1); transition: 0.3s; }
+
+.flex-container .btn {
+  position: absolute;
+  background-color: #555;
+  color: white;
+  font-size: 19px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 140px;  
+  font-family: 'Bebas Neue', sans-serif; 
+  letter-spacing: 1px;  
+}
+
+.flex-container .btn:hover {  transform: scale(1.1); transition: 0.3s; }
+
+.info { color: white; font-size: 0.95rem; font-style: italic; font-family: 'PT Sans', sans-serif;  
+         -webkit-text-stroke-width: 1px;
+         -webkit-text-stroke-color: black;}
+
+.flex-container { display: flex; flex-direction: column; align-items: center; position: relative;}
+
+.Topics { border: 0.1rem solid grey;  margin: 0.1rem; background-color: #EFF9F8 ;}
+
+.coloumn { margin: 0.1rem;  text-decoration: none ;  color: black; font-size: 1.25rem;  }
+
+.classification { margin: 0.2rem; }
+
+.END {	background-color: black; }
+
+.fa {  padding: 20px;  font-size: 30px;  width: 50px;  text-align: center;  text-decoration: none;}
+.fa:hover {  opacity: 0.7; transform: scale(1.1);}
+.fa-facebook {  background: #3B5998;  color: white;}
+.fa-instagram {  background: #55ACEE;  color: white;}
+.fa-youtube {  background: red;color: white;}
